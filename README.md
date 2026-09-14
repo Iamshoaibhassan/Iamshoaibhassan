@@ -60,5 +60,27 @@ The current demonstrations were built with AI coding assistance and use syntheti
 examples or publicly bundled datasets. They contain no copied private client source.
 Tests, evaluation scope, and deployment limitations are documented in each project.
 
+## Attributed Reference Studies
+
+These public forks are learning and integration studies based on established open-source projects. Each fork retains the upstream relationship and adds `PORTFOLIO_NOTES.md` plus a safe healthcheck template. Upstream authorship and licensing remain credited.
+
+| Study | Upstream |
+|---|---|
+| [Langflow](https://github.com/Iamshoaibhassan/langflow) | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) |
+| [OpenRAG](https://github.com/Iamshoaibhassan/openrag) | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) |
+| [Flowise](https://github.com/Iamshoaibhassan/Flowise) | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) |
+| [AnythingLLM](https://github.com/Iamshoaibhassan/anything-llm) | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) |
+| [Quivr](https://github.com/Iamshoaibhassan/quivr) | [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) |
+| [PrivateGPT](https://github.com/Iamshoaibhassan/private-gpt) | [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) |
+| [SuperAGI](https://github.com/Iamshoaibhassan/SuperAGI) | [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) |
+| [AutoGPT](https://github.com/Iamshoaibhassan/AutoGPT) | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) |
+| [RAGNotebook](https://github.com/Iamshoaibhassan/RAGNotebook) | [RMA-MUN/RAGNotebook](https://github.com/RMA-MUN/RAGNotebook) |
+| [ScholarMind](https://github.com/Iamshoaibhassan/ScholarMind) | [wanghong5233/ScholarMind](https://github.com/wanghong5233/ScholarMind) |
+| [ragJ platform](https://github.com/Iamshoaibhassan/ragJ_platform) | [chongliujia/ragJ_platform](https://github.com/chongliujia/ragJ_platform) |
+| [RAG AI Agent](https://github.com/Iamshoaibhassan/RAG-Ai-Agent) | [romanyn36/RAG-Ai-Agent](https://github.com/romanyn36/RAG-Ai-Agent) |
+| [TANSEED TNAA](https://github.com/Iamshoaibhassan/tanseed-tnaa) | [rudhrancodes-dev/tanseed-tnaa](https://github.com/rudhrancodes-dev/tanseed-tnaa) |
+| [Hybrid Recommendation System](https://github.com/Iamshoaibhassan/hybrid-recommendation-system) | [RishwanthPerumandla/hybrid-recommendation-system](https://github.com/RishwanthPerumandla/hybrid-recommendation-system) |
+| [Churn MLOps Pipeline](https://github.com/Iamshoaibhassan/churn-mlops-pipeline) | [Zahra-ziaee/churn-mlops-pipeline](https://github.com/Zahra-ziaee/churn-mlops-pipeline) |
+
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/shoaib-hassan-67a347372/)
